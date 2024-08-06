@@ -13,14 +13,6 @@
           <key>url</key>
           <string>https://raw.githubusercontent.com/KuokToan/IPA/main/IPA/MB%20Bank_1.0.ipa</string>
         </dict>
-         <dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>https://i.ibb.co/MZwK6qt/2024-08-04-20-52-IMG-4178.jpg</string>
-				</dict>
       </array>
       <key>metadata</key>
       <dict>
